@@ -1,4 +1,4 @@
-package com.ejfr1985.swoosh
+package com.ejfr1985.swoosh.Controller
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
